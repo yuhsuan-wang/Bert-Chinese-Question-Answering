@@ -1,0 +1,1 @@
+python3.8 predict.py --context_dir ${1} --data_dir ${2} --result_path ${3}
